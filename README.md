@@ -10,6 +10,14 @@ The goal of this project is to build a browser extension that syncs your browser
 Historically this was once possible using [the mozilla sync app](https://github.com/owncloudarchive/mozilla_sync). However, it's [not very easy anymore](https://github.com/owncloudarchive/mozilla_sync/issues/33) to run your own sync server and it still would only work with firefox.
 
 **News:** Floccus v2.0 can now sync all your bookmarks with all of your ginormous folder hierarchy. :weight_lifting_woman:
+## Table of Contents
+
+- [Install](#install)
+- [Usage](#usage)
+- [Goals and Limitations](#goals)
+- [Donate](#donate)
+- [Contribute](#contribute)
+- [License](#license)
 
 ## Install
 For this to work with your Nextcloud server, you need at least version v0.11 of the Bookmarks app installed. Once you've done that you can continue to install floccus in your browser as follows.
